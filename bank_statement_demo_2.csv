@@ -1,0 +1,3 @@
+date,payment reference,reference,partner,amount,currency
+2026-06-29,INV/2026/00002,Customer receipt abc customer second,abc customer,52.50,AED
+2026-06-29,BILL/2026/06/0002,Vendor payment DotBotics second,DotBotics,-1000.00,AED
